@@ -1,6 +1,6 @@
 ﻿namespace Anonymizer.Core;
 
-public class Class1
+public enum Type 
 {
-
+    Email,
 }
